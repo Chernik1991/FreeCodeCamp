@@ -1,37 +1,12 @@
-function expression(number, operation){
-    if(!operation)
-        return number;
-    return operation(number);
-}
+function isPangram(string){
+    const alphabet = 'abcdefghijklmnopqrstuvwxyz';
+    const str = string.toLowerCase();
 
-function zero(operation) { return expression(0, operation); }
-function one(operation) { return expression(1, operation); }
-function two(operation) { return expression(2, operation); }
-function three(operation) { return expression(3, operation); }
-function four(operation) { return expression(4, operation); }
-function five(operation) { return expression(5, operation); }
-function six(operation) { return expression(6, operation); }
-function seven(operation) { return expression(7, operation); }
-function eight(operation) { return expression(8, operation); }
-function nine(operation) { return expression(9, operation); }
+    for (let i = 0; i < alphabet.length-1; i += 1) {
+        if (str.indexOf(alphabet[i]) === -1) {
+            return false;
+        }
+    }
 
-function plus(x) {
-    return function(y) {
-        return y + x;
-    }
-}
-function minus(x) {
-    return function(y) {
-        return y - x;
-    }
-}
-function times(x) {
-    return function(y) {
-        return y * x;
-    }
-}
-function dividedBy(x) {
-    return function(y) {
-        return y / x;
-    }
+    return true;
 }
