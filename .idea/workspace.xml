@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7574c7f-6cf1-4768-9b13-122e6d52d286" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CodeWars/2.19.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeWars/2.20.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +55,7 @@
       <workItem from="1642910988364" duration="193000" />
       <workItem from="1642911229206" duration="443000" />
       <workItem from="1642911718348" duration="1073000" />
-      <workItem from="1642914444249" duration="13871000" />
+      <workItem from="1642914444249" duration="14371000" />
     </task>
     <task id="LOCAL-00001" summary="1.28">
       <created>1642915743114</created>
@@ -358,7 +358,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642937378815</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="2.19">
+      <created>1642939571420</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1642939571420</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -376,7 +383,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="1.43" />
     <MESSAGE value="1.44" />
     <MESSAGE value="1.45" />
     <MESSAGE value="1.46" />
@@ -401,7 +407,8 @@
     <MESSAGE value="2.16" />
     <MESSAGE value="2.17" />
     <MESSAGE value="2.18" />
-    <option name="LAST_COMMIT_MESSAGE" value="2.18" />
+    <MESSAGE value="2.19" />
+    <option name="LAST_COMMIT_MESSAGE" value="2.19" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
