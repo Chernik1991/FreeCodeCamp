@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f7574c7f-6cf1-4768-9b13-122e6d52d286" name="Changes" comment="" />
+    <list default="true" id="f7574c7f-6cf1-4768-9b13-122e6d52d286" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/CodeWars/2.23.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +55,7 @@
       <workItem from="1642910988364" duration="193000" />
       <workItem from="1642911229206" duration="443000" />
       <workItem from="1642911718348" duration="1073000" />
-      <workItem from="1642914444249" duration="14704000" />
+      <workItem from="1642914444249" duration="15130000" />
     </task>
     <task id="LOCAL-00001" summary="1.28">
       <created>1642915743114</created>
@@ -377,7 +379,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642940286807</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="2.22">
+      <created>1642940497552</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1642940497552</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -395,7 +404,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="1.46" />
     <MESSAGE value="1.47" />
     <MESSAGE value="1.48" />
     <MESSAGE value="1.49" />
@@ -420,7 +428,8 @@
     <MESSAGE value="2.19" />
     <MESSAGE value="2.20" />
     <MESSAGE value="2.21" />
-    <option name="LAST_COMMIT_MESSAGE" value="2.21" />
+    <MESSAGE value="2.22" />
+    <option name="LAST_COMMIT_MESSAGE" value="2.22" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
