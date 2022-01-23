@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7574c7f-6cf1-4768-9b13-122e6d52d286" name="Changes" comment="2.27">
-      <change beforePath="$PROJECT_DIR$/CodeWars/2.27.js" beforeDir="false" afterPath="$PROJECT_DIR$/CodeWars/2.27.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.50.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +43,16 @@
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RunManager">
+    <configuration name="1.50.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="1.50.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.1.50.js" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -56,14 +66,7 @@
       <workItem from="1642911229206" duration="443000" />
       <workItem from="1642911718348" duration="1073000" />
       <workItem from="1642914444249" duration="16402000" />
-      <workItem from="1642947860739" duration="558000" />
-    </task>
-    <task id="LOCAL-00004" summary="1.31">
-      <created>1642916185543</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1642916185543</updated>
+      <workItem from="1642947860739" duration="1263000" />
     </task>
     <task id="LOCAL-00005" summary="1.32">
       <created>1642916304190</created>
@@ -401,7 +404,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642948036475</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="2.27">
+      <created>1642948440837</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1642948440837</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
