@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f7574c7f-6cf1-4768-9b13-122e6d52d286" name="Changes" comment="1.54">
-      <change afterPath="$PROJECT_DIR$/1.55.js" afterDir="false" />
+    <list default="true" id="f7574c7f-6cf1-4768-9b13-122e6d52d286" name="Changes" comment="1.55">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +43,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../incubator/it-incubator-todolist-ts-01" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -73,14 +74,8 @@
       <workItem from="1642911229206" duration="443000" />
       <workItem from="1642911718348" duration="1073000" />
       <workItem from="1642914444249" duration="16402000" />
-      <workItem from="1642947860739" duration="6104000" />
-    </task>
-    <task id="LOCAL-00010" summary="1.36">
-      <created>1642917252636</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1642917252636</updated>
+      <workItem from="1642947860739" duration="6692000" />
+      <workItem from="1643724665522" duration="199000" />
     </task>
     <task id="LOCAL-00011" summary="1.36">
       <created>1642917683187</created>
@@ -418,7 +413,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642955724614</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="1.55">
+      <created>1642958083551</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1642958083551</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -436,7 +438,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2.8" />
     <MESSAGE value="2.9" />
     <MESSAGE value="2.10" />
     <MESSAGE value="2.11" />
@@ -461,7 +462,8 @@
     <MESSAGE value="1.52" />
     <MESSAGE value="1.53" />
     <MESSAGE value="1.54" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.54" />
+    <MESSAGE value="1.55" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.55" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
