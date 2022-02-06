@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f7574c7f-6cf1-4768-9b13-122e6d52d286" name="Changes" comment="1.60">
-      <change afterPath="$PROJECT_DIR$/1.61.js" afterDir="false" />
+    <list default="true" id="f7574c7f-6cf1-4768-9b13-122e6d52d286" name="Changes" comment="1.61">
+      <change afterPath="$PROJECT_DIR$/1.62.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,14 +77,7 @@
       <workItem from="1642914444249" duration="16402000" />
       <workItem from="1642947860739" duration="6692000" />
       <workItem from="1643724665522" duration="199000" />
-      <workItem from="1644140292176" duration="1944000" />
-    </task>
-    <task id="LOCAL-00016" summary="1.41">
-      <created>1642919290329</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1642919290329</updated>
+      <workItem from="1644140292176" duration="2564000" />
     </task>
     <task id="LOCAL-00017" summary="1.42">
       <created>1642919708508</created>
@@ -421,7 +415,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644142565699</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="1.61">
+      <created>1644142807953</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1644142807953</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -439,7 +440,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2.14" />
     <MESSAGE value="2.15" />
     <MESSAGE value="2.16" />
     <MESSAGE value="2.17" />
@@ -464,7 +464,8 @@
     <MESSAGE value="1.58" />
     <MESSAGE value="1.59" />
     <MESSAGE value="1.60" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.60" />
+    <MESSAGE value="1.61" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.61" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
